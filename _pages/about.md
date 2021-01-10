@@ -8,22 +8,6 @@ Welcome to Artifishel! Artifishell is a blog centered around machine/deep learni
 
 Please feel free to let me know about any interesting topics, ideas or projects that you'd like to see a post or article about.
 
-## Creator
+## Content Creator
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+Hello, my name is Nicholas Guan. I decided to create Arifishell mainly in order to share my thoughts and opinions as well as post information about technologies that I find interesting. It is my hope that people will be motivated to learn more and potentially research about the topics and ideas that I discuss. I'm a computer science major and a former intern at Facebook and IBM, with 7+ years of programming experience and a background in machine learning. If you'd like to contact me, feel free to do so by messaging me on any of the platforms below :).
