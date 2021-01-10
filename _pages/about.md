@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Welcome to Artifishel! Artifishell is a blog centered around machine/deep learning and artificial intelligence topics, news, projects and more. There will also be personal posts sprinkled throughout the site.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+Please feel free to let me know about any interesting topics, ideas or projects that you'd like to see a post or article about.
 
-## Features
+## Creator
 
 - Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
 - Fully responsive and mobile optimized base theme
