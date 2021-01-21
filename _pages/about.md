@@ -3,8 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-> Getting information off the Internet is like taking a drink from a fire hydrant.” — Mitchell Kapor
  
 Welcome to Artifishell! I decided to create Arifishell in order to share my thoughts and opinions as well as post information about technologies that I find interesting. My goal is simple: present complex - or hard-to-understand - topics in a simple and intuitive way. It is my hope that people will be motivated to learn more about and research the topics and ideas on this website.
 
