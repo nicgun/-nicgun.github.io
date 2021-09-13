@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mastering sorting methods
+title: Machine learning and trading stocks
 categories: [HTML,Code]
 ---
 
